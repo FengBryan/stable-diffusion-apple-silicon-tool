@@ -1,7 +1,7 @@
 ## Stable diffusion on mac m1
 
 ### Prepare
-1. Log in to or register for your [Hugging Face account](https://huggingface.co), generate a [User Access Token](https://huggingface.co/settings/tokens) usage when stepup in terminal
+1. Log in to or register for your [Hugging Face account](https://huggingface.co), generate a [User Access Token](https://huggingface.co/settings/tokens) usage when stetup in terminal
 
 2. May need use proxy in some area when download githubresouce domain. Do in terminal like:
 ``` bash

@@ -11,7 +11,6 @@ if [ $? -ne 0 ]; then
   echo "Run pre-run.sh first"
   exit 1
 fi
-pip install gradio
 cp ./web.py ./ml-stable-diffusion/python_coreml_stable_diffusion
 
 cd ml-stable-diffusion

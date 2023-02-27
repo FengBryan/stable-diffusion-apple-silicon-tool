@@ -1,0 +1,9 @@
+coremltools==6.2
+diffusers==0.13.1
+gradio==3.19.1
+numpy==1.21.5
+Pillow==9.4.0
+requests==2.28.1
+setuptools==63.4.1
+torch==1.13.1
+transformers==4.26.1
